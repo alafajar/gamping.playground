@@ -1,0 +1,289 @@
+{
+  "produk": {
+    "": {
+      "columns": 3,
+      "contents": [
+        {
+          "icon": "/icons/icon-bg-omnichat.svg",
+          "title": "Qiscus Omnichannel chat",
+          "description": "Sentralisasikan chat pelanggan dari 20+ aplikasi ke dalam satu platform.",
+          "url": "#"
+        },
+        {
+          "icon": "/icons/icon-bg-ai.svg",
+          "title": "Qiscus AI",
+          "description": "Teknologi AI untuk tingkatkan skala layanan pelanggan.",
+          "url": "#"
+        },
+        {
+          "icon": "/icons/icon-bg-helpdesk.svg",
+          "title": "Qiscus Helpdesk",
+          "description": "Helpdesk ticketing system untuk bantu tim berkolaborasi beri solusi terbaik ke pelanggan.",
+          "url": "#"
+        }
+      ]
+    },
+
+    "features&add-ons": {
+      "columns": 1,
+      "contents": [
+        {
+          "icon": null,
+          "title": "Qiscus AgenLabs",
+          "description": "Miliki AI Agent cerdas yang mampu menangani chat pelanggan dengan cepat.",
+          "url": "#"
+        },
+        {
+          "icon": null,
+          "title": "Qiscus CDP",
+          "description": "Customer data platform untuk integrasikan berbagai data interaksi pelanggan.",
+          "url": "#"
+        },
+        {
+          "icon": null,
+          "title": "WhatsApp OTP",
+          "description": "Solusi autentikasi dan verifikasi.",
+          "url": "#"
+        },
+        {
+          "icon": null,
+          "title": "Qiscus Call Center",
+          "description": "Solusi telepon Cloud PBX yang efisien untuk call center.",
+          "url": "#"
+        },
+        {
+          "icon": null,
+          "title": "Qiscus Shop",
+          "description": "Solusi chat commerce untuk tingkatkan penjualan melalui aplikasi chat.",
+          "url": "#"
+        },
+        {
+          "icon": null,
+          "title": "WhatsApp Broadcast",
+          "description": "Blast Promo atau Kirim Notifikasi Penting dengan WhatsApp",
+          "url": "#"
+        },
+        {
+          "icon": null,
+          "title": "WhatsApp Broadcast",
+          "description": "Blast Promo atau Kirim Notifikasi Penting dengan WhatsApp",
+          "url": "#"
+        },
+        {
+          "icon": null,
+          "title": "Qiscus Agent Copilot",
+          "description": "Jadikan tim customer support lebih produktif dengan teknologi AI.",
+          "url": "#"
+        },
+        {
+          "icon": null,
+          "title": "Qiscus Survey",
+          "description": "Kenali pelanggan Anda lebih dalam dengan survei.",
+          "url": "#"
+        },
+        {
+          "icon": null,
+          "title": "WhatsApp Call",
+          "description": "Tingkatkan efektivitas interaksi dengan pelanggan lewat panggilan WhatsApp.",
+          "url": "#"
+        }
+      ]
+    },
+
+    "integrations": {
+      "columns": 1,
+      "contents": [
+        {
+          "icon": null,
+          "title": "Qiscus App Center",
+          "description": "Miliki AI Agent cerdas yang mampu menangani chat pelanggan dengan cepat.",
+          "url": "#"
+        },
+        {
+          "icon": null,
+          "title": "WhatsApp Business API",
+          "description": "Solusi telepon Cloud PBX yang efisien untuk call center.",
+          "url": "#"
+        },
+        {
+          "icon": null,
+          "title": "Instagram Messenger API",
+          "description": "Jadikan tim customer support lebih produktif dengan teknologi AI.",
+          "url": "#"
+        },
+        {
+          "icon": null,
+          "title": "Chat SDK",
+          "description": "Hadirkan fitur chat ke dalam aplikasi Anda dengan cepat dan efisien.",
+          "url": "#"
+        }
+      ]
+    }
+  },
+  "solusi": {
+    "columns": 1,
+    "contents": {
+      "jtbd": [
+        {
+          "icon": null,
+          "title": "Lead Generation",
+          "description": "Lead capture lebih seamless via WhatsApp & kanal lainnya.",
+          "url": "#"
+        },
+        {
+          "icon": null,
+          "title": "Engagement and Conversion",
+          "description": "Follow-up & kirim promo sistematis untuk tingkatkan penjualan.",
+          "url": "#"
+        },
+        {
+          "icon": null,
+          "title": "Support and Service",
+          "description": "Bantu tim CS hadirkan pengalaman terbaik di berbagai channel.",
+          "url": "#"
+        },
+        {
+          "icon": null,
+          "title": "Customer Marketing",
+          "description": "Optimalkan up-selling & cross-selling dengan pesan personal.",
+          "url": "#"
+        }
+      ],
+      "divisi": [
+        {
+          "icon": null,
+          "title": "Sales & Marketing",
+          "description": "Permudah terjadinya penjualan lewat berbagai kanal online.",
+          "url": "#"
+        },
+        {
+          "icon": null,
+          "title": "Customer Service",
+          "description": "Tangani lebih banyak pelanggan dari berbagai kanal dengan efisien.",
+          "url": "#"
+        },
+        {
+          "icon": null,
+          "title": "Developer & IT",
+          "description": "Hadirkan fitur chat dan video call ke dalam aplikasi dengan cepat.",
+          "url": "#"
+        },
+        {
+          "icon": null,
+          "title": "Operation Team",
+          "description": "Operasional bisnis lebih efektif dengan komunikasi yang lancar.",
+          "url": "#"
+        }
+      ],
+      "industri": [
+        {
+          "icon": null,
+          "title": "Perbankan, Jasa Keuangan, dan Asuransi",
+          "description": "Dorong pembayaran tepat waktu dan kepuasan layanan dengan komunikasi yang relevan.",
+          "url": "#"
+        },
+        {
+          "icon": null,
+          "title": "Kesehatan",
+          "description": "Hadirkan pengalaman pasien yang nyaman di setiap channel komunikasi.",
+          "url": "#"
+        }
+      ]
+    }
+  },
+  "bantuan": {
+    "columns": 1,
+    "contents": {
+      "insights": [
+        {
+          "icon": null,
+          "title": "Mengapa Qiscus?",
+          "description": null,
+          "url": "#"
+        },
+        {
+          "icon": null,
+          "title": "Customer Success Story",
+          "description": null,
+          "url": "#"
+        },
+        {
+          "icon": null,
+          "title": "Blog",
+          "description": null,
+          "url": "#"
+        },
+        {
+          "icon": null,
+          "title": "White Paper",
+          "description": null,
+          "url": "#"
+        }
+      ],
+      "perusahaan": [
+        {
+          "icon": null,
+          "title": "Tentang Kami",
+          "description": null,
+          "url": "#"
+        },
+        {
+          "icon": null,
+          "title": "Karir",
+          "description": null,
+          "url": "#"
+        },
+        {
+          "icon": null,
+          "title": "Pers & Media",
+          "description": null,
+          "url": "#"
+        },
+        {
+          "icon": null,
+          "title": "Kebijakan Privasi",
+          "description": null,
+          "url": "#"
+        },
+        {
+          "icon": null,
+          "title": "Persyaratan Layanan",
+          "description": null,
+          "url": "#"
+        }
+      ],
+      "dukungan": [
+        {
+          "icon": null,
+          "title": "Kontak Sales",
+          "description": null,
+          "url": "#"
+        },
+        {
+          "icon": null,
+          "title": "Pusat Bantuan",
+          "description": null,
+          "url": "#"
+        },
+        {
+          "icon": null,
+          "title": "Dokumentasi",
+          "description": null,
+          "url": "#"
+        },
+        {
+          "icon": null,
+          "title": "Persyaratan Layanan",
+          "description": null,
+          "url": "#"
+        },
+        {
+          "icon": null,
+          "title": "Kebijakan Privasi",
+          "description": null,
+          "url": "#"
+        }
+      ]
+    }
+  }
+}
